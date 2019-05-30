@@ -1,0 +1,1 @@
+# CI django-blog mini project
